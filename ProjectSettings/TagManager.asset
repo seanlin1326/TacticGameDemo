@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Cell
+  - Piece
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cell
+    uniqueID: 3651960647
+    locked: 0
+  - name: CellUpper1
+    uniqueID: 4015440191
+    locked: 0
+  - name: Piece
+    uniqueID: 1540308799
+    locked: 0
+  - name: Hide
+    uniqueID: 3420638277
+    locked: 0
+  - name: PieceUI
+    uniqueID: 2804485883
+    locked: 0

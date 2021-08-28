@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d99c7b31ff24f4e9db44ad743f1a8b, type: 3}
+  m_Name: "\u70C8\u7130\u98A8\u66B4"
+  m_EditorClassIdentifier: 
+  SkillName: "\u70C8\u7130\u98A8\u66B4"
+  manaCost: 5
+  skillIntro: "\u7FA4\u9AD4\u6CD5\u8853 \n\u5C0D\u7BC4\u570D2\u4EE5\u5167\u7684\u6240\u6709\u6575\u8ECD\u9020\u62103\u9EDE\u50B7\u5BB3"
+  skillCastHint: "\u5C0D\u7BC4\u570D\u70BA2\u4EE5\u5167\u7684\u6240\u6709\u6575\u8ECD\u9020\u62103\u9EDE\u50B7\u5BB3"
+  castRange: 2
+  skillDamage: 3

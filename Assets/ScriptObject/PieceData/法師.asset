@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a58c5478330a842b766abe2e93dd07, type: 3}
+  m_Name: "\u6CD5\u5E2B"
+  m_EditorClassIdentifier: 
+  skills:
+  - {fileID: 11400000, guid: c761e93689838854b981ea0e4adaed9e, type: 2}
+  - {fileID: 11400000, guid: b9580a8130bc75e4cbbaa3c838910a01, type: 2}
+  pieceName: "\u6CD5\u5E2B"
+  attackPower: 1
+  MaxHealth: 3
+  armor: 0
+  moveRange: 1
+  maxMoveTime: 1
+  attackRange: 1
+  maxAttackTime: 1
+  pieceSprite: {fileID: 21300240, guid: 0bd75fea9aa016b49843b72678d09df7, type: 3}
